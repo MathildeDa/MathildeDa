@@ -1,0 +1,55 @@
+body {
+	font-size: 100%;
+	font-family: Helvetica Neue, sans-serif;
+	font-weight: 200;
+	padding-top: 3vw;
+
+}
+
+
+h1 {font-size: 1.2em;
+	position: absolute;
+	top: 30px;
+}
+
+h2 {font-size: 2em;
+	position: absolute;
+	top: 80px;
+}
+
+ul {font-size: 2em;
+	left: 150px;
+	top: 75px;
+	position: absolute;
+}
+
+li a {font-size: 0.8em;
+	text-decoration: none;
+	color:black;
+}
+
+#nouvelles { position: absolute;
+	top:170px;
+	margin-left: 5em;
+}
+
+#arrow {position: absolute;
+		font-size: 3em;
+		font-weight: 600;
+		left: 0;
+		top: 150px;
+}
+
+#arrow:hover {
+	color: grey;
+	 -webkit-transition: 0.5s;
+	transition: 0.5s;
+
+}
+h3 {margin-top: 1em;
+	margin-bottom: 1em;
+	font-weight: 300;
+}
+#cv {
+	margin-bottom: 2em;
+}

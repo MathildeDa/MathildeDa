@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Catamaran:100');
+
 body {
 	font-size: 100%;
-	font-family: Helvetica Neue, sans-serif;
-	font-weight: 200;
+	font-family: Helvetica Neue, Catamaran, sans-serif;
+	font-weight: 100;
 	padding-top: 3vw;
 
 }
@@ -15,6 +17,10 @@ h1 {font-size: 1.2em;
 h2 {font-size: 2em;
 	position: absolute;
 	top: 80px;
+}
+h3 {margin-top: 1em;
+	margin-bottom: 1em;
+	font-weight: 400;
 }
 
 ul {font-size: 2em;
@@ -46,10 +52,7 @@ li a {font-size: 0.8em;
 	transition: 0.5s;
 
 }
-h3 {margin-top: 1em;
-	margin-bottom: 1em;
-	font-weight: 300;
-}
+
 #cv {
 	margin-bottom: 2em;
 }

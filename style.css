@@ -34,6 +34,13 @@ li a {font-size: 0.8em;
 	color:black;
 }
 
+a:hover {
+	color: grey;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+
+}
+
 #nouvelles { position: absolute;
 	top:170px;
 	margin-left: 5em;
@@ -46,12 +53,6 @@ li a {font-size: 0.8em;
 		top: 150px;
 }
 
-#arrow:hover {
-	color: grey;
-	 -webkit-transition: 0.5s;
-	transition: 0.5s;
-
-}
 
 #cv {
 	margin-bottom: 2em;

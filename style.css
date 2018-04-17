@@ -34,6 +34,11 @@ li a {font-size: 0.8em;
 	color:black;
 }
 
+p {
+	width: 60vw;
+	margin-left: 3em;
+}
+
 a:hover {
 	color: grey;
 	-webkit-transition: 0.5s;

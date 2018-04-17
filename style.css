@@ -23,6 +23,10 @@ h3 {margin-top: 1em;
 	font-weight: 800;
 }
 
+p {
+	line-height: 1.2em;
+}
+
 ul {font-size: 2em;
 	left: 150px;
 	top: 75px;
@@ -37,7 +41,6 @@ li a {font-size: 0.8em;
 #bio p {
 	width: 60vw;
 	margin-top: 2em;
-	line-height: 1.2em;
 }
 
 a:hover {

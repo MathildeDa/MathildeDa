@@ -45,7 +45,7 @@ li a {font-size: 0.8em;
 }
 
 a:hover {
-	color: grey;
+	color: blue;
 	-webkit-transition: 0.5s;
 	transition: 0.5s;
 

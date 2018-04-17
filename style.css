@@ -37,6 +37,7 @@ li a {font-size: 0.8em;
 #bio p {
 	width: 60vw;
 	margin-top: 2em;
+	line-height: 1.2em;
 }
 
 a:hover {
@@ -47,7 +48,7 @@ a:hover {
 }
 
 #nouvelles { position: absolute;
-	top:250px;
+		top:260px;
 } 
 
 #arrow {position: absolute;

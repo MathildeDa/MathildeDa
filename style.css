@@ -53,6 +53,7 @@ a:hover {
 
 #nouvelles { position: absolute;
 		top:260px;
+	line-height:1.3em;
 } 
 
 #arrow {position: absolute;
